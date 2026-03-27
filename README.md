@@ -18,7 +18,6 @@ This project focuses on building dynamic functionality using vanilla JavaScript.
 ## 📌 Status
 Completed as frontend practice project
 
-![App Screenshots]
-(./screenshots/app.png)
-(./screenshots/busqueda.png)
-(./screenshots/resultado.png)
+![App Screenshots](screenshots/app.png)
+![App Screenshots](screenshots/busqueda.png)
+![App Screenshots](screenshots/resultado.png)
