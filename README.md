@@ -2,6 +2,15 @@
 
 Frontend application with product filtering using JavaScript.
 
+## 📸 Preview
+
+![App Screenshots](screenshots/app.png)
+
+---
+
+![Filters](screenshots/busqueda.png)
+![Results](screenshots/resultado.png)
+
 ## 🚀 Features
 - Product filtering
 - Dynamic DOM manipulation
@@ -18,6 +27,3 @@ This project focuses on building dynamic functionality using vanilla JavaScript.
 ## 📌 Status
 Completed as frontend practice project
 
-![App Screenshots](screenshots/app.png)
-![App Screenshots](screenshots/busqueda.png)
-![App Screenshots](screenshots/resultado.png)
